@@ -1,2 +1,0 @@
-# FirstJavaPkgRepo
-First Java package
